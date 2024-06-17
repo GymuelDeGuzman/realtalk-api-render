@@ -1,0 +1,15 @@
+librosa
+numpy
+matplotlib
+ipython
+pandas
+scikit-learn
+scikit-image
+pillow
+flask
+flask-cors
+nbformat
+nbconvert
+werkzeug
+transformers
+torch
