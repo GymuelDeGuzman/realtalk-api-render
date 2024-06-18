@@ -13,3 +13,4 @@ nbconvert
 werkzeug
 transformers
 torch
+gunicorn
